@@ -32,3 +32,6 @@ conda activate your-env
 pip install yourproject
 
 
+##### Next steps
+
+We recommend to use the version XXX
