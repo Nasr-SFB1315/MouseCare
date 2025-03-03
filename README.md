@@ -30,8 +30,8 @@ We recommend installing **YourProject** in a conda environment. First, install [
 conda create -n your-env python=3.7
 conda activate your-env
 pip install yourproject
-```bash
-
+```
+ 
 ##### Next steps
 
 We recommend to use the version XXX
