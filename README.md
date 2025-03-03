@@ -1,8 +1,7 @@
-# YourProject Name
+# MouseCare
 
-![YourProject Logo](https://raw.githubusercontent.com/Nasr-SFB1315/images/refs/heads/main/testinmage.png?token=GHSAT0AAAAAAC7XEDFY5WM3P6HX7RU2UO2IZ6FVVUA)
 
-A brief introduction to your project, its purpose, and its key features.
+GUI to run DeepLabCut-live on a video feed with the MouseCare stress evaluation software
 
 ---
 
