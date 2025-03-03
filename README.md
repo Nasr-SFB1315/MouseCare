@@ -22,8 +22,7 @@ GUI to run DeepLabCut-live on a video feed with the MouseCare stress evaluation 
 
 We recommend installing **YourProject** in a conda environment. First, install [Anaconda](https://www.anaconda.com/):
 
-- [Windows Installation Guide](https://docs.anaconda.com/anaconda/install/windows/)
-- [Linux Installation Guide](https://docs.anaconda.com/anaconda/install/linux/)
+- [Deep Lab Cut live installation guide](https://github.com/DeepLabCut/DeepLabCut-live-GUI?tab=readme-ov-file)
 
 #### Install Dependencies
 
