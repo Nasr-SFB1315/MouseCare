@@ -9,7 +9,7 @@ GUI to run DeepLabCut-live on a video feed with the MouseCare stress evaluation 
 
 <p align="left">
   <span style="display: inline-block; width: 60%;">
-    <strong>YourProject Name</strong>  
+    <strong>MouseCare</strong>  
     <br>  
     A brief introduction to your project, its purpose, and its key features.
   </span>
