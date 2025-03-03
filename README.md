@@ -1,19 +1,23 @@
-# MouseCare
+# YourProject Name
 
-Brief description of your project.
+![YourProject Logo](docs/images/logo.png)
+
+A brief introduction to your project, its purpose, and its key features.
+
+---
 
 ## Installation Instructions
 
-Provide detailed steps to install your project. For example:
-
 ### Windows or Linux Desktop
 
-We recommend installing [YourProject] in a conda environment. First, please install Anaconda:
+We recommend installing **YourProject** in a conda environment. First, install [Anaconda](https://www.anaconda.com/):
 
-- [Windows](https://docs.anaconda.com/anaconda/install/windows/)
-- [Linux](https://docs.anaconda.com/anaconda/install/linux/)
+- [Windows Installation Guide](https://docs.anaconda.com/anaconda/install/windows/)
+- [Linux Installation Guide](https://docs.anaconda.com/anaconda/install/linux/)
 
-Create a conda environment with Python 3.7 and necessary dependencies:
+#### Install Dependencies
 
 ```bash
 conda create -n your-env python=3.7
+conda activate your-env
+pip install yourproject
