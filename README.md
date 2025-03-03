@@ -26,7 +26,11 @@ pip install yourproject
 
 #### test new images:
 
-
-| Text | Image |
-|------|-------|
-| YourProject Name <br> A brief introduction to your project. | ![Logo](https://raw.githubusercontent.com/Nasr-SFB1315/images/refs/heads/main/testinmage.png?token=GHSAT0AAAAAAC7XEDFY5WM3P6HX7RU2UO2IZ6FVVUA) |
+<p align="left">
+  <span style="display: inline-block; width: 60%;">
+    <strong>YourProject Name</strong>  
+    <br>  
+    A brief introduction to your project, its purpose, and its key features.
+  </span>
+  <img src="https://raw.githubusercontent.com/Nasr-SFB1315/images/refs/heads/main/testinmage.png?token=GHSAT0AAAAAAC7XEDFY5WM3P6HX7RU2UO2IZ6FVVUA" width="30%" align="right">
+</p>
