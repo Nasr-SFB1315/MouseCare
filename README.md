@@ -19,7 +19,7 @@ GUI to run DeepLabCut-live on a video feed with the MouseCare stress evaluation 
 
 ### Setting up Deep Lab Cut live and MouseCare
 
-We recommend following the instruction for deeplabcut live
+We recommend following the instruction to install deeplabcut live
 - [Deep Lab Cut live installation guide](https://github.com/DeepLabCut/DeepLabCut-live-GUI?tab=readme-ov-file)
 
 #### Install Dependencies
