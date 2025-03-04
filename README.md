@@ -13,7 +13,7 @@ GUI to run DeepLabCut-live on a video feed with the MouseCare stress evaluation 
     <br>  
     A brief introduction to your project, its purpose, and its key features.
   </span>
-  <img src="https://raw.githubusercontent.com/Nasr-SFB1315/images/refs/heads/main/testinmage.png?token=GHSAT0AAAAAAC7XEDFY5WM3P6HX7RU2UO2IZ6FVVUA" width="30%" align="right">
+  <img src="https://github.com/Nasr-SFB1315/images/blob/main/testinmage.png?raw=true" width="30%" align="right">
 </p>
 
 
