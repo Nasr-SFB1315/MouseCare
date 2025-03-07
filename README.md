@@ -98,7 +98,8 @@ Make sure you have downloaded the [trained network](https://github.com/Nasr-SFB1
 <img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/dlclivecamera.png?raw=true" />
 <p align="left">
 Text here on how to proceed
-For firsttime use, we recomment to use our [Accuracy-Test](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Accuracy-Test) first, to see if the network recognises the mouse in the setup accuratly. 
+For firsttime use, we recomment to use our [trained network](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Network)
+ [Accuracy-Test](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Accuracy-Test) first, to see if the network recognises the mouse in the setup accuratly. 
 </p>
 <kbd>
 <strong>Addition information:</strong>
