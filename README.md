@@ -65,7 +65,10 @@ Click on <strong>Edit Camera Settings</strong> set the <strong>device</strong> t
 </br>
 </br>
 </br>
-
+</br>
+</br>
+</br>
+</br>
 
 
 ### Adding MouseCare
