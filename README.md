@@ -53,8 +53,8 @@ In the folder [Camera-Test](https://github.com/Nasr-SFB1315/MouseCare/tree/main/
 
 <img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/dlclivecamera.png?raw=true" />
 <p align="left">
-First you need to set up camera by clicking on ***Init Cam*** make sure that it is set to __OpenCVCam__ and give it a name. 
-Click on <strong>Edit Camera Settings</strong> set the **device** to the corresponding index of the camera you use. You can set the values according to your needs.
+First you need to set up camera by clicking on <strong>Init Cam</strong> make sure that it is set to <strong>OpenCVCam</strong> and give it a name. 
+Click on <strong>Edit Camera Settings</strong> set the <strong>device</strong> to the corresponding index of the camera you use. You can set the values according to your needs.
 </p>
 
 
