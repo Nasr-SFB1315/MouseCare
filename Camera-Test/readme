@@ -1,5 +1,6 @@
 Depending on your camera model it might not be supported by deeplabcutlive.
 In that case you can use a virtual camera with software like OBS.
+- [Open Broadcaster Software | OBS](https://obsproject.com/)
 
 Find the port for the camera/obs
 ```bash
