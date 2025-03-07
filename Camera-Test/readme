@@ -1,2 +1,14 @@
 Depending on your camera model it might not be supported by deeplabcutlive.
-In that case you can use a virtual camera with software like OBS
+In that case you can use a virtual camera with software like OBS.
+
+Find the port for the camera/obs
+```bash
+import cv2
+
+for i in range(10):  # Try indexes 0-9
+    cap = cv2.VideoCapture(i)
+    if cap.isOpened():
+        print(f"Camera {i} is available")
+        cap.release()
+
+```
