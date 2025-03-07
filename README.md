@@ -1,4 +1,4 @@
-# MouseCare
+ # MouseCare
 
 
 MouseCare uses the deeplabcut live gui as interface to use the trained network with the stress evaluation software to create a live tracking and evaluation of the face of head fixed mice, to determine their stress
@@ -54,7 +54,7 @@ In the folder [Camera-Test](https://github.com/Nasr-SFB1315/MouseCare/tree/main/
 <img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/dlclivecamera.png?raw=true" />
 <p align="left">
 First you need to set up camera by clicking on ***Init Cam*** make sure that it is set to __OpenCVCam__ and give it a name. 
-Click on <strong>Edit Camera Settings</strong>strong> set the **device** to the corresponding index of the camera you use. You can set the values according to your needs.
+Click on <strong>Edit Camera Settings</strong> set the **device** to the corresponding index of the camera you use. You can set the values according to your needs.
 </p>
 
 
