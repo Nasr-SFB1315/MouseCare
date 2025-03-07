@@ -91,18 +91,17 @@ Please keep in mind once you have added MouseCare to dlclive it will be part of 
 
 ### Adding the network
 
-Make sure you have downloaded the [trained network](https://github.com/Nasr-SFB1315/MouseCare/tree/main/MouseCare) from the resository.
+Make sure you have downloaded the [trained network](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Network) from the resository.
 
 
 
 <img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/dlclivecamera.png?raw=true" />
 <p align="left">
-To add MouseCare you need go to <strong>Processor Dir</strong> and navigate to the <strong>folder</strong> where you have downloaded MouseCare. 
-From the drop down menu <strong>Processor</strong> and select <strong>MouseCare</strong>. Then press <strong>Edit Proc Settings</strong> to make sure that everthing is in order. Finish it by <strong>Set Proc</strong>
+Text here on how to proceed
 </p>
 <kbd>
 <strong>Addition information:</strong>
-Please keep in mind once you have added MouseCare to dlclive it will be part of the loading process of dlvlive. This means if you make faulty changes to MouseCare, it will not only crash MouseCare but dlclive as well.
+The network is trained to recognise the facial features of head fixed mice. Given the scope of the project it is not possible to train a network to work in every setup. For firsttime use, we recoment to not start with mousecare but use our accuracy tester first. 
 </kbd>
 </p>
 
