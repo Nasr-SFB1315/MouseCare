@@ -63,7 +63,7 @@ In regard to resolution and frame rate: Both can be adjusted according to your n
 Changing the resolution as well as frame rate will change the load on the GPU/CPU. This dependents on the graphics card. For example, a 4090 can handle higher resolution than a 3060. We recommend testing with different resolution and fps to gauge the capability of your setup.
 </kbd>
 </p>
-<br>
+
 
 ---
 
