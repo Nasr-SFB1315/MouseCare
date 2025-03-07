@@ -44,8 +44,10 @@ start dlclivegui
 dlclivegui
 ```
 
-
  
-##### Next steps
+##### setting up the camera
 
-setting up the camera
+To be able to use your camera in dlclive you to know the correlating index.
+In the folder Camera-Test is a tutorial on how to find it.
+
+<img src="https://github.com/Nasr-SFB1315/images/blob/main/dlclivecamera.png?raw=true" width="30%" align="right">
