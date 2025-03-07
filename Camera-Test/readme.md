@@ -36,7 +36,7 @@ Use the index from given to you by the code above
 ```bash
 import cv2
 
-cap = cv2.VideoCapture(0)  
+cap = cv2.VideoCapture(0)  #Use the index  given to you by the code above
 
 if not cap.isOpened():
     print("Error: Could not open camera.")
