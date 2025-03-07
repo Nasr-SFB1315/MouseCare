@@ -1,7 +1,7 @@
 # MouseCare
 
 
-GUI to run DeepLabCut-live on a video feed with the MouseCare stress evaluation software
+MouseCare uses the deeplabcut live gui as interface to use the trained network with the stress evaluation software to create a live tracking and evaluation of the face of head fixed mice, to determine their stress
 
 ---
 
@@ -11,7 +11,7 @@ GUI to run DeepLabCut-live on a video feed with the MouseCare stress evaluation 
   <span style="display: inline-block; width: 60%;">
     <strong>MouseCare</strong>  
     <br>  
-   MouseCare uses the deeplabcut live gui as interface to use the trained network with the stress evaluation software to create a live tracking and evaluation of the face of head fixed mice, to determine their stress.
+   This is the installation guide to setup deeplabcutlive gui with MouseCare
   </span>
 </p>
 
