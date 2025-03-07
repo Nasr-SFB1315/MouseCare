@@ -90,6 +90,7 @@ Please keep in mind once you have added MouseCare to dlclive it will be part of 
 ### Adding the network
 
 Make sure you have downloaded the [trained network](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Network) from the repository.
+<br>
 For first time use, we recommend using our [Accuracy-Test](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Accuracy-Test) first, to see if the network recognizes the mouse in the setup accurately. 
 
 
