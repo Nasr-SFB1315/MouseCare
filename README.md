@@ -45,7 +45,7 @@ dlclivegui
 ```
 
  
-### setting up the camera
+### Setting up the camera
 
 To be able to use your camera in dlclive you need to know the correlating index.
 In the folder [Camera-Test](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Camera-Test) is a tutorial on how to find it.
@@ -57,7 +57,7 @@ First you need to set up camera by clicking on <strong>Init Cam</strong> make su
 Click on <strong>Edit Camera Settings</strong> set the <strong>device</strong> to the corresponding index of the camera you use. You can set the values according to your needs.
 </p>
 
-
+</br>
 ### Adding MouseCare
 
 To add MouseCare you need go to select the <strong>Processor Dir</strong> and navigate to where you have downloaded [MouseCare](https://github.com/Nasr-SFB1315/MouseCare/tree/main/MouseCare) to
