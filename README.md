@@ -19,16 +19,35 @@ GUI to run DeepLabCut-live on a video feed with the MouseCare stress evaluation 
 
 ### Setting up Deep Lab Cut live and MouseCare
 
-We recommend following the instruction to install deeplabcut live
+We recommend using a conda environment:
 - [Deep Lab Cut live installation guide](https://github.com/DeepLabCut/DeepLabCut-live-GUI?tab=readme-ov-file)
 
 #### Install Dependencies
 
+Dlc live gui with gpu:
 ```bash
-conda create -n your-env python=3.7
-conda activate your-env
-pip install yourproject
+conda create -n dlc-live python=3.7 tensorflow-gpu==1.13.1
 ```
+Dlc live gui without gpu:
+```bash
+conda create -n dlc-live python=3.7 tensorflow==1.13.1 
+```
+activate the environment
+```bash
+conda activate dlc-live 
+```
+install dlc live gui
+```bash
+pip install deeplabcut-live-gui
+```
+start dlclivegui
+```bash
+dlclivegui
+```
+
+
+
+
  
 ##### Next steps
 
