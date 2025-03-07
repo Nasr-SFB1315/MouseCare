@@ -58,3 +58,19 @@ Click on <strong>Edit Camera Settings</strong> set the <strong>device</strong> t
 </p>
 
 
+###### Adding MouseCare
+
+To add MouseCare you need go to select the <strong>Processor Dir</strong> and navigate to where you have downloaded [MouseCare](https://github.com/Nasr-SFB1315/MouseCare/tree/main/MouseCare) to
+
+
+
+<img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/dlclivecamera.png?raw=true" />
+<p align="left">
+First you need to set up camera by clicking on <strong>Init Cam</strong> make sure that it is set to <strong>OpenCVCam</strong> and give it a name. 
+Click on <strong>Edit Camera Settings</strong> set the <strong>device</strong> to the corresponding index of the camera you use. You can set the values according to your needs.
+</p>
+
+
+
+
+
