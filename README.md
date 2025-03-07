@@ -71,8 +71,6 @@ Changing the resolution as well as frame rate will change the load on the GPU/CP
 
 Make sure you have downloaded [MouseCare](https://github.com/Nasr-SFB1315/MouseCare/tree/main/MouseCare) from the resository.
 
-
-
 <img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/dlclivecamera.png?raw=true" />
 <p align="left">
 To add MouseCare you need go to <strong>Processor Dir</strong> and navigate to the <strong>folder</strong> where you have downloaded MouseCare. 
@@ -91,26 +89,25 @@ Please keep in mind once you have added MouseCare to dlclive it will be part of 
 
 ### Adding the network
 
-Make sure you have downloaded the [trained network](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Network) from the resository.
+Make sure you have downloaded the [trained network](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Network) from the repository.
+For first time use, we recommend using our [Accuracy-Test](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Accuracy-Test) first, to see if the network recognizes the mouse in the setup accurately. 
 
 
 
 <img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/dlclivecamera.png?raw=true" />
 <p align="left">
 Text here on how to proceed
-For firsttime use, we recomment to use our [trained network](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Network)
- [Accuracy-Test](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Accuracy-Test) first, to see if the network recognises the mouse in the setup accuratly. 
+
 </p>
 <kbd>
 <strong>Addition information:</strong>
-The network is trained to recognise the facial features of head fixed mice. Given the scope of the project it is not possible to train a network to work in every setup imaginable, but it is possible to either train the provided network with new video data from your setup or generate a new network using deeplabcut. The tutorial on how to generate a new netork is here[link]
+The network is trained to recognize the facial features of head fixed mice. Given the scope of the project, it is not possible to train a network to work in every setup imaginable, but it is possible to either train the provided network with new video data from your setup or generate a new network using deeplabcut. The tutorial on how to generate a new network is here[link]
 
 </kbd>
 </p>
 
 
 ---
-
 
 
 
