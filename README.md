@@ -78,19 +78,12 @@ Make sure you have downloaded [MouseCare](https://github.com/Nasr-SFB1315/MouseC
 To add MouseCare you need go to <strong>Processor Dir</strong> and navigate to the <strong>folder</strong> where you have downloaded MouseCare. 
 From the drop down menu <strong>Processor</strong> and select <strong>MouseCare</strong>. Then press <strong>Edit Proc Settings</strong> to make sure that everthing is in order. Finish it by <strong>Set Proc</strong>
 </p>
-
+<kbd>
 <strong>Addition information:</strong>
 Please keep in mind once you have added MouseCare to dlclive it will be part of the loading process of dlvlive. This means if you make faulty changes to MouseCare, it will not only crash MouseCare but dlclive as well.
-<br>
+</kbd>
 </p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ---
 
