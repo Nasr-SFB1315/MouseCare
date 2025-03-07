@@ -1,6 +1,4 @@
 <style>
-      /* Whatever that is inside this <style> tag is all styling for your markup / content structure.
-      /* The . with the boxed represents that it is a class */
       .boxed {
         background: #F2F2F2;
         color: black;
