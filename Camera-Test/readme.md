@@ -28,7 +28,7 @@ Here we need to know the index correlating to the camera used example result:
 If no camera is available, please check your hardware
 
 
-### test your video stream
+### Test your video stream
 To test your video stream  use the following python code to open a new window showing you the life video feed.
 
 Use the index from given to you by the code above
