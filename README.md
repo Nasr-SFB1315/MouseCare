@@ -48,7 +48,10 @@ dlclivegui
 ##### setting up the camera
 
 To be able to use your camera in dlclive you to know the correlating index.
-In the folder Camera-Test (https://github.com/Nasr-SFB1315/MouseCare/tree/main/Camera-Test) is a tutorial on how to find it.
+In the folder [Camera-Test](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Camera-Test) is a tutorial on how to find it.
+
+
+
 <p align="center">
   <img src="https://github.com/Nasr-SFB1315/images/blob/main/dlclivecamera.png?raw=true">
 </p>
