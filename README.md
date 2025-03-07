@@ -98,11 +98,12 @@ Make sure you have downloaded the [trained network](https://github.com/Nasr-SFB1
 <img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/dlclivecamera.png?raw=true" />
 <p align="left">
 Text here on how to proceed
+For firsttime use, we recomment to use our [Accuracy-Test](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Accuracy-Test) first, to see if the network recognises the mouse in the setup accuratly. 
 </p>
 <kbd>
 <strong>Addition information:</strong>
-The network is trained to recognise the facial features of head fixed mice. Given the scope of the project it is not possible to train a network to work in every setup. 
-For firsttime use, we recoment to not start with mousecare but use our  [Accuracy-Test](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Accuracy-Test) first. 
+The network is trained to recognise the facial features of head fixed mice. Given the scope of the project it is not possible to train a network to work in every setup imaginable, but it is possible to either train the provided network with new video data from your setup or generate a new network using deeplabcut. The tutorial on how to generate a new netork is here[link]
+
 </kbd>
 </p>
 
