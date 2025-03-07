@@ -45,9 +45,7 @@ dlclivegui
 ```
 
 
-
-
  
 ##### Next steps
 
-We recommend to use the version XXX
+seting up the camera
