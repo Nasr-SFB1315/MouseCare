@@ -60,7 +60,10 @@ Click on <strong>Edit Camera Settings</strong> set the <strong>device</strong> t
 <strong>Addition information:</strong>
 In regard to resolution and frame rate: Both can be adjusted according to your needs, but if you change frame rate in dlclive you also need to adjust it in MouseCare. We had success with a frame rate of 30fps, which is what we recommend to start with.
 Changing the resolution as well as frame rate will change the load on the GPU/CPU. This dependents on the graphics card. For example, a 4090 can handle higher resolution than a 3060. We recommend testing with different resolution and fps to gauge the capability of your setup.
+ <br>
 </p>
+<br>
+
 
 ---
 
