@@ -54,11 +54,13 @@ In the folder [Camera-Test](https://github.com/Nasr-SFB1315/MouseCare/tree/main/
 <img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/dlclivecamera.png?raw=true" />
 <p align="left">
 First you need to set up camera by clicking on <strong>Init Cam</strong> make sure that it is set to <strong>OpenCVCam</strong> and give it a name. 
-Click on <strong>Edit Camera Settings</strong> set the <strong>device</strong> to the corresponding index of the camera you use. You can set the values according to your needs.
-In regard to resolution and frame rate: Both can be adjusted according to your needs, but if you change frame rate in dlclive you also need to adjust it in MouseCare. We had success with a frame rate of 30fps, which is what we recommend to start with.
-Changing the resolution as well as frame rate will change the requirements on the GPU/CPU. This dependents on the graphics card. For example, a 4090 can handle higher resolution than a 3060. We recommend testing with different resolution and fps to gauge the capability of your setup.
+Click on <strong>Edit Camera Settings</strong> set the <strong>device</strong> to the corresponding index of the camera you use. You can set the values according to your needs. 
 </p>
-
+<p align="left">
+Addition information:
+In regard to resolution and frame rate: Both can be adjusted according to your needs, but if you change frame rate in dlclive you also need to adjust it in MouseCare. We had success with a frame rate of 30fps, which is what we recommend to start with.
+Changing the resolution as well as frame rate will change the load on the GPU/CPU. This dependents on the graphics card. For example, a 4090 can handle higher resolution than a 3060. We recommend testing with different resolution and fps to gauge the capability of your setup.
+</p>
 
 </br>
 </br>
