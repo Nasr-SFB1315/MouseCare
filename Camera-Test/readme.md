@@ -1,5 +1,5 @@
 
-# Testing the functionallity of your camera
+# Testing the functionality of your camera
 ---
 Depending on your camera model it might not be supported by deeplabcutlive.
 In that case you can use a virtual camera with software like OBS.
@@ -10,7 +10,7 @@ In that case you can use a virtual camera with software like OBS.
 
 
 ## Find the port for the camera/obs
-This python code checks all your awailable cameras including virtual cameras
+This python code checks your available camera indexes including virtual cameras
 
 ```bash
 import cv2
@@ -25,7 +25,7 @@ for i in range(10):  # Try indexes 0-9
 
 Here we need to know the index correlating to the camera used example result:
 ”Camera 0 is available” 
-If no camera is available please check you hardware
+If no camera is available, please check your hardware
 
 
 ### test your video stream
