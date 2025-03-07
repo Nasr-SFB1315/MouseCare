@@ -43,7 +43,7 @@ start dlclivegui
 ```bash
 dlclivegui
 ```
-
+---
  
 ### Setting up the camera
 
@@ -66,7 +66,7 @@ Changing the resolution as well as frame rate will change the load on the GPU/CP
 </br>
 </br>
 
-
+---
 ### Adding MouseCare
 
 Make sure you have downloaded [MouseCare](https://github.com/Nasr-SFB1315/MouseCare/tree/main/MouseCare) from the resository.
