@@ -19,7 +19,7 @@ MouseCare uses the deeplabcut live gui as interface to use the trained network w
 ### Setting up Deep Lab Cut live and MouseCare
 
 We recommend using a conda environment:
-- [Deep Lab Cut live installation guide](https://github.com/DeepLabCut/DeepLabCut-live-GUI?tab=readme-ov-file)
+- [Anaconda ](https://anaconda.org/anaconda)
 
 #### Install Dependencies
 
