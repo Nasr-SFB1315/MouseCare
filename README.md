@@ -48,4 +48,4 @@ dlclivegui
  
 ##### Next steps
 
-seting up the camera
+setting up the camera
