@@ -101,7 +101,7 @@ Text here on how to proceed
 </p>
 <kbd>
 <strong>Addition information:</strong>
-The network is trained to recognise the facial features of head fixed mice. Given the scope of the project it is not possible to train a network to work in every setup. For firsttime use, we recoment to not start with mousecare but use our accuracy tester first. 
+The network is trained to recognise the facial features of head fixed mice. Given the scope of the project it is not possible to train a network to work in every setup. For firsttime use, we recoment to not start with mousecare but use our  [Accuracy-Test](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Accuracy-Test) first. 
 </kbd>
 </p>
 
