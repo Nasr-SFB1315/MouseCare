@@ -5,7 +5,7 @@ MouseCare uses the deeplabcut live gui as interface to use the trained network w
 
 ---
 
-## Installation Instructions
+### Installation Instructions
 
 <p align="left">
   <span style="display: inline-block; width: 60%;">
@@ -21,7 +21,7 @@ MouseCare uses the deeplabcut live gui as interface to use the trained network w
 We recommend using a conda environment:
 - [Anaconda ](https://anaconda.org/anaconda)
 
-#### Install Dependencies
+### Install Dependencies
 
 Dlc live gui with gpu:
 ```bash
@@ -45,7 +45,7 @@ dlclivegui
 ```
 
  
-##### setting up the camera
+### setting up the camera
 
 To be able to use your camera in dlclive you need to know the correlating index.
 In the folder [Camera-Test](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Camera-Test) is a tutorial on how to find it.
@@ -58,7 +58,7 @@ Click on <strong>Edit Camera Settings</strong> set the <strong>device</strong> t
 </p>
 
 
-###### Adding MouseCare
+### Adding MouseCare
 
 To add MouseCare you need go to select the <strong>Processor Dir</strong> and navigate to where you have downloaded [MouseCare](https://github.com/Nasr-SFB1315/MouseCare/tree/main/MouseCare) to
 
