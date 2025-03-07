@@ -61,6 +61,13 @@ Click on <strong>Edit Camera Settings</strong> set the <strong>device</strong> t
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
+</br>
+
+
+
 ### Adding MouseCare
 
 To add MouseCare you need go to select the <strong>Processor Dir</strong> and navigate to where you have downloaded [MouseCare](https://github.com/Nasr-SFB1315/MouseCare/tree/main/MouseCare) to
