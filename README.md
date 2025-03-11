@@ -102,7 +102,7 @@ Text here on how to proceed
 </p>
 <kbd>
 <strong>Addition information:</strong>
-The network is trained to recognize the facial features of head fixed mice. Given the scope of the project, it is not possible to train a network to work in every setup imaginable, but it is possible to either train the provided network with new video data from your setup or generate a new network using deeplabcut. The tutorial on how to generate a new network is here[link]
+The network is trained to recognize the facial features of head fixed mice. Given the scope of the project, it is not feasable to train a network to work in every setup imaginable, but it is possible to either train the provided network with new video data from your setup or generate a new network using deeplabcut. The tutorial on how to generate a new network is in the folder network.
 
 </kbd>
 </p>
