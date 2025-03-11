@@ -11,7 +11,7 @@ In case you want to create your own network for tracing facial features we have 
 
 <p align="left">
   <span style="display: inline-block; width: 60%;">
-    <strong>MouseCare</strong>  
+     
     <br>  
    This is the installation guide to setup deeplabcut
   </span>
