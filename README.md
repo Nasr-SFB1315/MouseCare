@@ -43,6 +43,14 @@ start dlclivegui
 ```bash
 dlclivegui
 ```
+
+
+<kbd>
+<strong>Addition information:</strong>
+Please keep in mind that this guide is for NVIDIA graphic cards. For other graphic cards please follow the instruction of the manufacture
+</kbd>
+
+
 ---
  
 ### Setting up the camera
@@ -110,6 +118,23 @@ The network is trained to recognize the facial features of head fixed mice. Give
 
 ---
 
+### Setting up the session
+
+Now that all the different softwares haven been loaded into dlc live, we can set up the session
+
+
+
+<img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/dlclivecamera.png?raw=true" />
+<p align="left">
+Text here on how to proceed
+
+</p>
+<kbd>
+<strong>Addition information:</strong>
+It is recommended to check the terminal for information in case it does not work as expected. A common error is that not all the required python packages are installed on your system. Which can be fixed with the proper pip installs.
+
+</kbd>
+</p>
 
 
 
