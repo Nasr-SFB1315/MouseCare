@@ -18,7 +18,7 @@ In case you want to create your own network for tracing facial features we have 
 </p>
 
 
-### Setting up Deep Lab Cut live and MouseCare
+### Setting up Deep Lab Cut
 
 We recommend using a conda environment:
 - [Anaconda ](https://anaconda.org/anaconda)
