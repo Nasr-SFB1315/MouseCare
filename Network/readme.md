@@ -47,5 +47,30 @@ code here
 ```
 ---
  
-### Setting up the netowrk parameters
+### Exporting a network for DLC live
+
+# Using Python
+
+```bash
+import deeplabcut
+
+deeplabcut.export_model(r"full\path\to\config.yaml", iteration=None, shuffle=1, trainingsetindex=0, snapshotindex=None, TFGPUinference=True, overwrite=False, make_tar=True)
+e.g.
+deeplabcut.export_model(r"C:\Users\Administrator\Desktop\Lilli\LastMouse4Point-Lilli-2024-12-11\config.yaml", iteration=None, shuffle=1, trainingsetindex=0, snapshotindex=None, TFGPUinference=True, overwrite=False, make_tar=True)
+
+```
+
+
+# Using Anaconda
+
+1. Open anaconda as admin (!)
+
+2. Open the environment with Ipython 
+
+```bash
+import deeplabcut
+deeplabcut.export_model(r"full\path\to\config.yaml", iteration=None, shuffle=1, trainingsetindex=0, snapshotindex=None, TFGPUinference=True, overwrite=False, make_tar=True)
+
+```
+
 
