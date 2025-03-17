@@ -56,7 +56,7 @@ import deeplabcut
 
 deeplabcut.export_model(r"full\path\to\config.yaml", iteration=None, shuffle=1, trainingsetindex=0, snapshotindex=None, TFGPUinference=True, overwrite=False, make_tar=True)
 e.g.
-deeplabcut.export_model(r"C:\Users\Administrator\Desktop\Lilli\LastMouse4Point-Lilli-2024-12-11\config.yaml", iteration=None, shuffle=1, trainingsetindex=0, snapshotindex=None, TFGPUinference=True, overwrite=False, make_tar=True)
+deeplabcut.export_model(r"full\path\to\target\config.yaml", iteration=None, shuffle=1, trainingsetindex=0, snapshotindex=None, TFGPUinference=True, overwrite=False, make_tar=True)
 
 ```
 
