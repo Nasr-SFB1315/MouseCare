@@ -1,8 +1,17 @@
  # Using the network
 
-We have created a trained network using the open source software deeplabcut. Awailable to download from the folder trained network.
+We have created a trained network using the open source software deeplabcut. 
 
-In case you want to create your own network for tracing facial features we have created the following guide on how to achieve this.
+There are two versions of this network:
+
+An exported version ready to use with deeplabcut live and MouseCare. Available to download from the folder exported network.
+
+A trained network, which can be used to train on additional videos to adjust to new setups. Available to download from the folder trained network.
+
+
+<br>
+
+In case you want to create your own network for tracing facial features, we have created the following guide on how to achieve this.
 
 
 ---
