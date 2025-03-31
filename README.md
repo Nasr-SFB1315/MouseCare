@@ -129,7 +129,7 @@ At this point, MouseCare should be working and giving feedback on the stress of 
 
 <img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/SessionImage.png" />
 <p align="left">
-First, you add a name for the subject, and a directory (the folder where the data should be stored at). Then you press <strong>Set Up Session</strong>. Following this, you can record the session; once you are finished, it is possible to save the video (this will take some time dependent on the length of the recording).
+First, you add a name for the subject (1), and a directory (the folder where the data should be stored at) (2). Then you press <strong>Set Up Session</strong>(3). Following this, you can record the session; once you are finished, it is possible to save the video (this will take some time dependent on the length of the recording).
 
 
 
