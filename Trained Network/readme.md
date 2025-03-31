@@ -1,6 +1,6 @@
 # Using the Network
 ---
-We have provided two versions of the network, the [adaptable](https://github.com/Nasr-SFB1315/MouseCare/tree/main/trained%20Network/adaptable) and the [exported](https://github.com/Nasr-SFB1315/MouseCare/tree/main/trained%20Network/exported) version.
+We have provided two versions of the network, the [adaptable](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Trained%20Network/adaptable) and the [exported](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Trained%20Network/exported) version.
 
 The exported Version:
 Only the exported version can be used with deeplabcut live, but it cannot be further trained or refined.
