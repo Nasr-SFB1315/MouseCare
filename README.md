@@ -131,13 +131,12 @@ At this point, MouseCare should be working and giving feedback on the stress of 
 <p align="left">
 First, you add a name for the subject, and a directory (the folder where the data should be stored at). Then you press <strong>Set Up Session</strong>. Following this, you can record the session; once you are finished, it is possible to save the video (this will take some time dependent on the length of the recording).
 
+
+
 </p>
 <kbd>
 <strong>Addition information:</strong>
-It is recommended to check the terminal for information in case it does not work as expected. A common error is that not all the required Python packages are installed on your system. Which can be fixed with the proper pip installs.
-
+In case you want to use multiple videos or live feeds after another make sure to give them different names to prevent errors
 </kbd>
 </p>
-
-
 
