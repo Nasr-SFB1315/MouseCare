@@ -81,8 +81,8 @@ Make sure you have downloaded [MouseCare](https://github.com/Nasr-SFB1315/MouseC
 
 <img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/NetworkImage.png" />
 <p align="left">
-To add MouseCare you need to go to <strong>Processor Dir</strong> and navigate to the <strong>folder</strong> where you have downloaded MouseCare. 
-From the drop-down menu <strong>Processor</strong> and select <strong>MouseCare</strong>. Then press <strong>Edit Proc Settings</strong> to access the settings menu. Here, you can adjust the weights for each facial feature. Once you have made the desired changes, you can finish it by <strong>Set Proc</strong>
+To add MouseCare you need to go to <strong>Processor Dir</strong>(1) and navigate to the <strong>folder</strong> where you have downloaded MouseCare. 
+From the drop-down menu <strong>Processor</strong>(2) and select <strong>MouseCare</strong>. Then press <strong>Edit Proc Settings</strong> to access the settings menu. Here, you can adjust the weights for each facial feature. Once you have made the desired changes, you can finish it by <strong>Update </strong>(3) and initiate it with <strong>Set Proc</strong>(4)
 </p>
 <kbd>
 <strong>Addition information:</strong>
