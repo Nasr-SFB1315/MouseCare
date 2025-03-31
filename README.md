@@ -79,7 +79,7 @@ Changing the resolution as well as frame rate will change the load on the GPU/CP
 
 Make sure you have downloaded [MouseCare](https://github.com/Nasr-SFB1315/MouseCare/tree/main/MouseCare) from the repository.
 
-<img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/NetworkImage.png" />
+<img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/mousecareImage.png" />
 <p align="left">
 To add MouseCare you need to go to <strong>Processor Dir</strong>(1) and navigate to the <strong>folder</strong> where you have downloaded MouseCare. 
 From the drop-down menu <strong>Processor</strong>(2) and select <strong>MouseCare</strong>. Then press <strong>Edit Proc Settings</strong> to access the settings menu. Here, you can adjust the weights for each facial feature. Once you have made the desired changes, you can finish it by <strong>Update </strong>(3) and initiate it with <strong>Set Proc</strong>(4)
@@ -101,7 +101,7 @@ Make sure you have downloaded the [exported network](https://github.com/Nasr-SFB
 
 
 
-<img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/mousecareImage.png" />
+<img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/NetworkImage.png" />
 <p align="left">
 You can make adjustments using <strong>Edit DLC Settings</strong>. Pressing <strong>Init DLC</strong> loads the network. This tends to take a few seconds. If it takes longer, make sure that you use the GPU and not the CPU.
  
