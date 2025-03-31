@@ -1,3 +1,0 @@
-Load the accuracy analysis as processor into deeplabcutlive and let it run for a few minutes to test the accuracy of the tracking in your setup.
-
-In case the tracking is not sufficient, please retrain the network with videos from your setup until the accuracy is sufficient.
