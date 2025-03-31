@@ -77,16 +77,16 @@ Changing the resolution as well as frame rate will change the load on the GPU/CP
 
 ### Adding MouseCare
 
-Make sure you have downloaded [MouseCare](https://github.com/Nasr-SFB1315/MouseCare/tree/main/MouseCare) from the resository.
+Make sure you have downloaded [MouseCare](https://github.com/Nasr-SFB1315/MouseCare/tree/main/MouseCare) from the repository.
 
 <img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/dlclivecamera.png?raw=true" />
 <p align="left">
-To add MouseCare you need go to <strong>Processor Dir</strong> and navigate to the <strong>folder</strong> where you have downloaded MouseCare. 
-From the drop down menu <strong>Processor</strong> and select <strong>MouseCare</strong>. Then press <strong>Edit Proc Settings</strong> to make sure that everthing is in order. Finish it by <strong>Set Proc</strong>
+To add MouseCare you need to go to <strong>Processor Dir</strong> and navigate to the <strong>folder</strong> where you have downloaded MouseCare. 
+From the drop-down menu <strong>Processor</strong> and select <strong>MouseCare</strong>. Then press <strong>Edit Proc Settings</strong> to access the settings menu. Here, you can adjust the weights for each facial feature. Once you have made the desired changes, you can finish it by <strong>Set Proc</strong>
 </p>
 <kbd>
 <strong>Addition information:</strong>
-Please keep in mind once you have added MouseCare to dlclive it will be part of the loading process of dlvlive. This means if you make faulty changes to MouseCare, it will not only crash MouseCare but dlclive as well.
+Please make sure that you have MouseCare as well as the init file in the same folder.
 </kbd>
 </p>
 
@@ -94,23 +94,26 @@ Please keep in mind once you have added MouseCare to dlclive it will be part of 
 ---
 
 
-
 ### Adding the network
 
-Make sure you have downloaded the [trained network](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Network) from the repository.
+Make sure you have downloaded the [exported network](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Trained%20Network/exported) from the repository. 
 <br>
-For first time use, we recommend using our [Accuracy-Test](https://github.com/Nasr-SFB1315/MouseCare/tree/main/Accuracy-Test) first, to see if the network recognizes the mouse in the setup accurately. 
 
 
 
 <img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/dlclivecamera.png?raw=true" />
 <p align="left">
-Text here on how to proceed
+You can make adjustments using <strong>Edit DLC Settings</strong>. Pressing <strong>Init DLC</strong> loads the network. This tends to take a few seconds. If it takes longer, make sure that you use the GPU and not the CPU.
+ 
+<br>
+<br>
+At this point you should be able to see the popup of MouseCare with the image repesenting the stress of the mouse.  
+For a visual representation of the tracking, you can press <strong>Display DLC Keypoints</strong> to show an overlay of the tracking points. <strong>Edit DLC Display Settings</strong> allows you to adjust the color and size of the overlay dots. 
 
 </p>
 <kbd>
 <strong>Addition information:</strong>
-The network is trained to recognize the facial features of head fixed mice. Given the scope of the project, it is not feasable to train a network to work in every setup imaginable, but it is possible to either train the provided network with new video data from your setup or generate a new network using deeplabcut. The tutorial on how to generate a new network is in the folder network.
+The network is trained to recognize the facial features of head fixed mice. Given the scope of the project, it is not feasible to train a network to work in every setup imaginable, but it is possible to either train the provided network with new video data from your setup or generate a new network using deeplabcut. Further information are in the folder trained network.
 
 </kbd>
 </p>
@@ -120,18 +123,18 @@ The network is trained to recognize the facial features of head fixed mice. Give
 
 ### Setting up the session
 
-Now that all the different softwares haven been loaded into dlc live, we can set up the session
+At this point, MouseCare should be working and giving feedback on the stress of mice. If you want to have the results as a CSV file, you need to set up a session. 
 
 
 
 <img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/dlclivecamera.png?raw=true" />
 <p align="left">
-Text here on how to proceed
+First, you add a name for the subject, and a directory (the folder where the data should be stored at). Then you press <strong>Set Up Session</strong>. Following this, you can record the session; once you are finished, it is possible to save the video (this will take some time dependent on the length of the recording).
 
 </p>
 <kbd>
 <strong>Addition information:</strong>
-It is recommended to check the terminal for information in case it does not work as expected. A common error is that not all the required python packages are installed on your system. Which can be fixed with the proper pip installs.
+It is recommended to check the terminal for information in case it does not work as expected. A common error is that not all the required Python packages are installed on your system. Which can be fixed with the proper pip installs.
 
 </kbd>
 </p>
