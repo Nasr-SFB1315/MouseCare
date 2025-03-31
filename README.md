@@ -103,12 +103,12 @@ Make sure you have downloaded the [exported network](https://github.com/Nasr-SFB
 
 <img align="right" src="https://github.com/Nasr-SFB1315/images/blob/main/NetworkImage.png" />
 <p align="left">
-You can make adjustments using <strong>Edit DLC Settings</strong>. Pressing <strong>Init DLC</strong> loads the network. This tends to take a few seconds. If it takes longer, make sure that you use the GPU and not the CPU.
+First you add the network via the drop down menu (1). Then you initiate the network (2). You can make adjustments using <strong>Edit DLC Settings</strong> (optional). This tends to take a few seconds. If it takes longer, make sure that you use the GPU and not the CPU.
  
 <br>
 <br>
 At this point you should be able to see the popup of MouseCare with the image repesenting the stress of the mouse.  
-For a visual representation of the tracking, you can press <strong>Display DLC Keypoints</strong> to show an overlay of the tracking points. <strong>Edit DLC Display Settings</strong> allows you to adjust the color and size of the overlay dots. 
+For a visual representation of the tracking, you can press <strong>Display DLC Keypoints</strong>(3) to show an overlay of the tracking points. <strong>Edit DLC Display Settings</strong> allows you to adjust the color and size of the overlay dots (optional). 
 
 </p>
 <kbd>
